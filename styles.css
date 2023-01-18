@@ -11,10 +11,11 @@ a {
 }
 
 .header {
+    color: #66FCF1;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #F4976C;
+    background-color: #0B0C10;
     padding: 24px 30vh 0px 30vh;
 }
 .header .logo {
@@ -29,7 +30,7 @@ a {
     gap: 24px;
 }
 .header ul li {
-    color: black;
+    color: #45A29E;
     font-size: 18px;
 }
 
@@ -37,7 +38,8 @@ a {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #F4976C;
+    color: #66fcf1;
+    background-color: #0b0C10;
     padding-top: 70px;
     padding-left: 30vh;
     padding-right: 30vh;
@@ -46,22 +48,23 @@ a {
 .section1 .info #line1 {
     font-size: 48px;
     font-weight: 900;
-    max-width: 600px;
+    max-width: 500px;
 }
 .section1 .info #line2 {
     font-size: 18px;
-    max-width: 600px;
+    max-width: 500px;
     margin-top: 10px;
+    color: #C5C6C7;
 }
 .section1 .info button {
-    background-color: #303C6C;
-    border: 2px solid #FBE8A6;
+    background-color: #ffffff00;
+    border: 2px solid #45A29E;
     border-radius: 6px;
-    width: 100px;
-    height: 30px;
+    width: 110px;
+    height: 40px;
     font-size: 18px;
     font-weight: bold;
-    color: #FBE8A6;
+    color: white;
     margin-top: 10px;
 }
 .section1 .imgbox {
@@ -70,7 +73,7 @@ a {
 .section1 img {
     width: 700px;
     height: auto;
-    border: 3px solid #FBE8A6;
+    border: 3px solid #45A29E;
     border-radius: 6px;
 }
 
