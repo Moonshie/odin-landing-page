@@ -155,3 +155,11 @@ a {
     font-weight: bold;
     color: white;
 }
+
+.footer {
+    background-color: #0B0C10;
+    padding: 24px 20% 24px 20%;
+    text-align: center;
+    color: #66FCF1;
+    font-size: 18px;
+}
