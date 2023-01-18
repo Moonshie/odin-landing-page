@@ -1,1 +1,2 @@
 # odin-landing-page
+This is my second project for TOP. I plan on adding some content to it, and changing the pallette, while keeping the layout intact. Still, it's mostly a test of my understanding of flexbox.
