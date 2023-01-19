@@ -47,7 +47,7 @@ a {
     align-items: center;
     color: #66fcf1;
     background-color: #0b0C10;
-    padding: 70px 20% 70px 20%;
+    padding: 72px 20% 72px 20%;
     gap: 24px;
 }
 .section1 .info #line1 {
@@ -87,8 +87,8 @@ a {
 .section2 {
     text-align: center;
     background-color: #1F2833;
-    padding-top: 24px;
-    padding-bottom: 24px;
+    padding-top: 48px;
+    padding-bottom: 72px;
     color: white;
 }
 .section2 #line1 {
@@ -131,8 +131,8 @@ a {
 
 .section4 {
     background-color: #1F2833;
-    padding-top: 24px;
-    padding-bottom: 24px;
+    padding-top: 72px;
+    padding-bottom: 72px;
     color: white;
     padding-left: 20%;
     padding-right: 20%;
